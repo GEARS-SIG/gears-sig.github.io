@@ -21,6 +21,7 @@ We focus on the
 * **V**erification of the system's implementation against its requirements;
 * **E**ngineering of the pysical aspects of the system in a way that supports its requirements; and,
 * **R**eality in the system will be used.
+
 We refer to this as the **RIVER** framework.
 
 
